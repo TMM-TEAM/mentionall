@@ -8,7 +8,7 @@ services:
     repo: https://github.com/Learningbots79/MentionAll_Bot # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
-    branch: Professor-99 # optional (defaults to master)
+    branch: main # optional (defaults to master)
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
     envVars:
