@@ -12,9 +12,9 @@ services:
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
     envVars:
-      - key: API_ID
+      - key: APP_ID
         sync: false
       - key: API_HASH
         sync: false
-      - key: BOT_TOKEN
+      - key: TOKEN
         sync: false
