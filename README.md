@@ -1,7 +1,7 @@
 <h1 align="center"><b><b>MentionAll_Bot</b></b></h1>
 _**Mention All Bot will help you to Mention Group Members upto 10,000 in GROUPS and can Mention Members upto 200 in CHANNELS !**_
 
-<p align="center"><a href="https://t.me/tmm_heroku_world"><img src="https://telegra.ph/file/5659bd87170bdcbe5ee44.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/tmm_heroku_world"><img src="https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg" width="400"></a></p>
 
 
 ## How To Host
@@ -12,8 +12,13 @@ Heroku is the easiest way to deploy this Bot
 
 ## Support   
 
-- Join Our [Telegram Group](https://t.me/ShikariSupportNetwork) 
-- Join Our [Channel](https://t.me/The_SHIKARI_Network) For Updates.
+<p align="center">
+<a href="https://telegram.me/tmm_support_chat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/TMM_HEROKU_WORLD"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
 
 # Mandatory Vars 🛠
