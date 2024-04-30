@@ -1,4 +1,4 @@
-<h1 align="center"><b><b>MentionAll_Bot</b></b></h1>
+<h1 align="center"><b><b>MentionAll</b></b></h1>
 _**Mention All Bot will help you to Mention Group Members upto 10,000 in GROUPS and can Mention Members upto 200 in CHANNELS !**_
 
 <p align="center"><a href="https://t.me/tmm_heroku_world"><img src="https://te.legra.ph/file/de0a77bb3b8d58b7338e4.jpg" width="400"></a></p>
