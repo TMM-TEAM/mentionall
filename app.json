@@ -2,8 +2,8 @@
     "name": "MentionAll Bot",
     "description": "An Effective & Most SIMPLE Bot for mentioning members in telegram.",
     "env": {
-        "TOKEN": {
-            "description": "Enter bot token."
+        "BOT TOKEN": {
+            "description": "Enter bot token.! Get it from @botfather"
         },
         "APP_ID": {
             "description": "Get this value from my.telegram.org! Please do not steal."
