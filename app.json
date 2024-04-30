@@ -1,16 +1,20 @@
 {
-    "name": "MentionAll Bot",
-    "description": "An Effective & Most SIMPLE Bot for mentioning members in telegram.",
+    "name": "Mention All",
+    "description": "A Telegram Mention All Bot, written in Python with Pyrogram.",
+    "logo": "https://graph.org/file/5dde07baff72a1523b769.jpg"
     "env": {
-        "BOT TOKEN": {
-            "description": "Enter bot token.! Get it from botfather"
-        },
-        "APP_ID": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
-        },
-        "API_HASH": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
-        }
-    },
-    "buildpacks": [{"url": "heroku/python"}]
-}
+      "API_ID": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "A Bot's token from Botfather",
+        "value": "",
+        "required": true
+      }
