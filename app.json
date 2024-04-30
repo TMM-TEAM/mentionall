@@ -2,7 +2,7 @@
     "name": "Mention All",
     "description": "A Telegram Mention All Bot, written in Python with Pyrogram.",
     "logo": "https://graph.org/file/5dde07baff72a1523b769.jpg"
-    "env": {
+   
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
         "value": "",
